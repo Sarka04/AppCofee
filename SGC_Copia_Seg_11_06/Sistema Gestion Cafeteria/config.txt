@@ -1,0 +1,2 @@
+usuario=root
+contrasenia=1111
